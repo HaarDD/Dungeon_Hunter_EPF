@@ -1,0 +1,12 @@
+{   
+com.badlogic.gdx.graphics.g2d.BitmapFont: {
+		pixel: { file: pixel.fnt }
+},    
+com.badlogic.gdx.scenes.scene2d.ui.TextButton$TextButtonStyle:{
+	 	start:{
+		  	down: button_click, up: button_none
+            font: pixel, fontColor: { r: 0, g: 0, b: 0, a: 1 }
+            
+		}
+  }
+}

@@ -1,0 +1,19 @@
+
+pause.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+pause_on
+  rotate: false
+  xy: 1, 1
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+pause_off
+  rotate: false
+  xy: 35, 1
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1

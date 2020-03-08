@@ -1,0 +1,19 @@
+
+buttonstart.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+button_click
+  rotate: false
+  xy: 1, 1
+  size: 128, 32
+  orig: 128, 32
+  offset: 0, 0
+  index: -1
+button_none
+  rotate: false
+  xy: 131, 1
+  size: 128, 32
+  orig: 128, 32
+  offset: 0, 0
+  index: -1
